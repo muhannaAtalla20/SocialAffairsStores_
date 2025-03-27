@@ -21,6 +21,36 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## How to Run the Project
+
+Follow these steps to set up and run the Laravel project:
+
+```bash
+# 1. Clone the Repository
+git clone https://github.com/muhannaAtalla20/SocialAffairsStores_
+cd SocialAffairsStores_
+
+# 2. Install Dependencies
+composer install
+
+# 3. Set Up Environment File
+cp .env.example .env
+# Update the .env file with your database credentials
+
+# 4. Generate Application Key
+php artisan key:generate
+
+# 5. Run Migrations
+php artisan migrate
+
+# 6. Serve the Application
+php artisan serve
+# The application will be available at http://localhost:8000
+
+# Optional: Seed the Database
+php artisan db:seed
+```
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
@@ -56,10 +86,6 @@ Thank you for considering contributing to the Laravel framework! The contributio
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
