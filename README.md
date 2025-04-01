@@ -96,5 +96,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - **[Muhanna Atallah](https://github.com/muhannaAtalla20)**
 - **[Taha Shurafa](https://github.com/Dev-Taha)**
 - **[Salah Himeed](https://github.com/Salahaldian)**
-- **[Hazem Hendawie]()**
-- **[Khaleel khleel]()**
+- **[Hazem Hendawie](https://github.com/DivHazem)**
+- **[Mohammed Assfa](https://github.com/Eng-MohammedAssfa)**
