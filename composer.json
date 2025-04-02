@@ -6,7 +6,7 @@
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
-        "php": "^8.2",
+        "php": "^8.3",
         "bezhansalleh/filament-shield": "^3.3",
         "fakerphp/faker": "^1.24",
         "filament/filament": "3.3",
